@@ -1,4 +1,4 @@
-#A meteor react boilerplate
+# A meteor react boilerplate
 
 features:
 * react router

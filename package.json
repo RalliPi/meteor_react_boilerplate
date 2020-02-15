@@ -1,5 +1,5 @@
 {
-  "name": "tatortalk",
+  "name": "meteor_react_boilerplate",
   "private": true,
   "scripts": {
     "start": "meteor run",
@@ -9,6 +9,10 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.3.4",
+    "@chakra-ui/core": "^0.5.2",
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "emotion-theming": "^10.0.27",
     "meteor-node-stubs": "^0.4.1",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",

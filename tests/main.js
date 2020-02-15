@@ -1,9 +1,9 @@
 import assert from "assert";
 
-describe("tatortalk", function () {
+describe("meteor_react_boilerplate", function () {
   it("package.json has correct name", async function () {
     const { name } = await import("../package.json");
-    assert.strictEqual(name, "tatortalk");
+    assert.strictEqual(name, "meteor_react_boilerplate");
   });
 
   if (Meteor.isClient) {
